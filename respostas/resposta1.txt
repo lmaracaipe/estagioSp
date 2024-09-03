@@ -1,0 +1,7 @@
+O loop começa com K = 0 e continua até K ser igual a 13. Durante cada iteração, K é incrementado e o valor de K é somado a SOMA. Ao final das iterações:
+
+Iteração 1: K = 1, SOMA = 1
+Iteração 2: K = 2, SOMA = 3
+...
+Iteração 13: K = 13, SOMA = 91
+Resposta: O valor final de SOMA será 91.
